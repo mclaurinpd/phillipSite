@@ -3,34 +3,12 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/me.jpg" class="sm:w-1/2 mx-auto" align="right" alt="this is a picture of me">
 </div>
 
-## Tech Stack
+Hey! I'm Phillip. Welcome to my website.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I'm a software developer with a majority of my experience in QA automation roles. I got my start in manufacturing at a Fortune 500 company but have spent the last five years working at startups. Most recently, I worked as an SDET at FloQast where I helped increase test coverage for the company's cloud storage and ERP integrations which were hosted on AWS Lambdas. I have a wide range of experience creating API, UI, contract and integration tests. As for technologies I'm  familiar with, I'm most comfortable coding in Java and Javascript but have written lots of C# and Python in the past. I'm also familiar with MySQL as well as NoSQL databases like MongoDB.
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+In my free time, I enjoy watching baseball, speedcubing, and playing video games. If you have any questions, feel free to [reach out.](mailto:phillip@phillipmclaurin.com) I look forward to hearing from you!
