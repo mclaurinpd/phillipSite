@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <div>
-  <img src="/assets/me.jpg" class="sm:w-1/2 mx-auto" align="right" alt="this is a picture of me">
+  <img src="/assets/me.jpg" class="sm:w-1/2 mx-auto" align="right" style="padding: 13px 13px 0px 13px;" alt="this is a picture of me">
 </div>
 
 Hey! I'm Phillip. Welcome to my website.
